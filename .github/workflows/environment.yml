@@ -1,0 +1,10 @@
+name: 3.11.0-alpha.3
+channels:
+  - defaults
+dependencies:
+  -pymysql
+  -pandas
+  -jpype1
+  -requests
+  -nltk
+  -tomotopy
