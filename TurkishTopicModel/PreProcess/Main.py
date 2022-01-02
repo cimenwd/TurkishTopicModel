@@ -127,7 +127,7 @@ class Main():
 
     def _lowerworker(self, text):
         if isinstance(text, str):
-            tokens = self.Zemberek.TurkishTextToken(x)
+            tokens = self.Zemberek.TurkishTextToken(text)
         else:
             tokens = text
         newtext = []
