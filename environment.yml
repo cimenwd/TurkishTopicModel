@@ -2,11 +2,11 @@ name: example-environment
 
 dependencies:
   - python=3.11.0-alpha.3
-  - pymysql
-  - pandas
-  - jpype1
-  - requests
-  - nltk
-  - tomotopy
   - pip:
+    - pymysql
+    - pandas
+    - jpype1
+    - requests
+    - nltk
+    - tomotopy
     - git+https://github.com/blaze/dask.git#egg=dask[complete]
