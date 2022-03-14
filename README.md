@@ -2,4 +2,4 @@
 #Bilimsel araştırma makalesi yayımlanmasının ardından tüm fonksiyonların ayrıntılı örnekleri paylaşılacaktır.
 
 Örnek Kullanım
-Examples/TurkishNews.py
+https://github.com/cimenwd/TurkishTopicModel/blob/main/Examples/TurkishNews7000.py
