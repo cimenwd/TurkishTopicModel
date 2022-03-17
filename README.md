@@ -1,4 +1,4 @@
-#"TurkishTopicModel" kütüphanesi 0.0.1 versiyonu için test deposudur. 
+#"TurkishTopicModel" kütüphanesi 0.0.1 versiyonu için test deposudur. <br>
 #Bilimsel araştırma makalesi yayımlanmasının ardından tüm fonksiyonların ayrıntılı örnekleri paylaşılacaktır.
 
 Örnek Kullanım
