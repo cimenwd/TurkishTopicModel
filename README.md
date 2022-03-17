@@ -4,5 +4,3 @@ TurkishTopicModel" kütüphanesi deposuna hoşgeldiniz;<br>
   <li>Bundan sonra yapılacak faaliyetleri <a href="https://github.com/cimenwd/TurkishTopicModel/blob/main/TODO">TODO</a> dosyasında bulabilirsiniz</li>
 </ul>
 
-
-
