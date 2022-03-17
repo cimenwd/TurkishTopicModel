@@ -12,5 +12,6 @@ Yararlanılan Kütüphaneler
  <li>requests == 2.26.0</li>
  <li>nltk == 3.6.7</li>
  <li>tomotopy == 0.12.2</li>
+   <li>ZemberekNLP == 0.17.1</li>
   </ul>
 
