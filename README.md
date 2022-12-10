@@ -4,6 +4,12 @@ TurkishTopicModel" kütüphanesi deposuna hoşgeldiniz;<br>
   <li>Bundan sonra yapılacak faaliyetleri <a href="https://github.com/cimenwd/TurkishTopicModel/blob/main/TODO">TODO</a> dosyasında bulabilirsiniz</li>
 </ul>
 
+PYPI Turkish-Topic-Model kütüphanesine <a href="https://pypi.org/project/Turkish-Topic-Model/">https://pypi.org/project/Turkish-Topic-Model/</a> bağlantısından ulaşabilirsiniz.
+
+Python kütüphanesini kurmak için aşağıdaki kodu kullanabilirsiniz.
+pip install Turkish-Topic-Model
+
+
 Yararlanılan Kütüphaneler
 <ul>
   <li>pymysql == 1.0.2</li>
