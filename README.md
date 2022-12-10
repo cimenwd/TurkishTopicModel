@@ -7,7 +7,7 @@ TurkishTopicModel" kütüphanesi deposuna hoşgeldiniz;<br>
 PYPI Turkish-Topic-Model kütüphanesine <a href="https://pypi.org/project/Turkish-Topic-Model/">https://pypi.org/project/Turkish-Topic-Model/</a> bağlantısından ulaşabilirsiniz.
 
 Python kütüphanesini kurmak için aşağıdaki kodu kullanabilirsiniz.
-pip install Turkish-Topic-Model
+<code>pip install Turkish-Topic-Model</code>
 
 
 Yararlanılan Kütüphaneler
