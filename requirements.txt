@@ -1,0 +1,15 @@
+pymysql==1.0.2
+jpype1==1.2.1
+pandas==1.2.2
+requests==2.25.1
+nltk==3.5
+numba==0.52.0
+tomotopy
+pickle-mixin
+pandas
+seaborn
+matplotlib
+multiprocess
+pyldavis
+numpy
+wordcloud
